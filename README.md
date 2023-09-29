@@ -9,7 +9,6 @@ This program reads a file containing student records, sorts the records based on
 
 ## 2. How to Compile & Run
 
-```bash
 $ gcc -o sorter sorter.c
 $ ./sorter
 
